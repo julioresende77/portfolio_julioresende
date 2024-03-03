@@ -34,8 +34,8 @@ Os usuários devem ser capazes de:
 
 ## Links
 
-- Repositório: 
-- Deploy: 
+- Repositório: https://github.com/julioresende77/portfolio_julioresende/
+- Deploy: https://julioresende77.github.io/portfolio_julioresende/
 
 ## Meu Processo
 
