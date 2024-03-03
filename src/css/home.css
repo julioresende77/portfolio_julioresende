@@ -1,0 +1,50 @@
+.home .tela-cheia{
+    min-height: 86vh;
+    padding: 20px 0;
+}
+
+.home .texto-home{
+    letter-spacing: 1px;
+    bottom: 50px;
+}
+.home .redes-sociais{
+    bottom: 20px;
+}
+
+.home .imagem-home  {
+    width: 100%;
+    
+}
+
+.home .texto-home p {
+    margin-bottom: 10px;
+    font-family: var(--fonte-secundaria);
+    font-size: var(--fonte-grande);
+}
+
+.home .texto-home h1 {
+    margin-bottom: 20px;
+    font-family: var(--fonte-secundaria);
+    font-size: var(--fonte-gigante);
+    font-weight: 700;
+}
+
+.home .texto-home h2 {
+    font-family: var(--fonte-secundaria);
+    font-size: var(--fonte-grande);
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+}
+
+@media(max-width: 1280px) {
+    .home .texto-home h1{
+        font-size: var(--fonte-gigante-mobile);
+    }
+
+    .home .texto-home {
+        max-width: 100%;
+        text-align: center;
+        padding: 0 var(--mobile-padding);
+    }
+
+}
