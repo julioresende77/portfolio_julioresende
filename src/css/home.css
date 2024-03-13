@@ -1,9 +1,9 @@
-.home .tela-cheia{
+.home .tela-cheia {
     min-height: 86vh;
     padding: 20px 0;
 }
 
-.img-perfil{
+.img-perfil {
     width: 212px;
     height: 211px;
     align-self: center;
@@ -11,23 +11,28 @@
     margin-bottom: 100px;
 }
 
-.home .texto-home{
+.home .texto-home {
     letter-spacing: 1px;
     bottom: 50px;
-}
-.home .redes-sociais{
-    bottom: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
-.home .imagem-home  {
+.home .redes-sociais {
+    bottom: 20px;
+    text-align: center;
+}
+
+.home .imagem-home {
     width: 100%;
-    
+
 }
 
 .home .texto-home p {
     margin-bottom: 10px;
     font-family: var(--fonte-secundaria);
     font-size: var(--fonte-grande);
+    text-align: center;
 }
 
 .home .texto-home h1 {
@@ -35,6 +40,7 @@
     font-family: var(--fonte-secundaria);
     font-size: var(--fonte-gigante);
     font-weight: 700;
+    text-align: center;
 }
 
 .home .texto-home h2 {
@@ -42,11 +48,20 @@
     font-size: var(--fonte-grande);
     letter-spacing: 2px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 @media(max-width: 1280px) {
-    .home .texto-home h1{
+    .home .texto-home h1 {
         font-size: var(--fonte-gigante-mobile);
+    }
+
+    .home .img-perfil {
+        width: 212px;
+        height: 211px;
+        align-self: center;
+        border-radius: 50%;
+        margin-bottom: 100px;
     }
 
     .home .texto-home {
