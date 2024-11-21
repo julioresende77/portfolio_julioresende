@@ -20,6 +20,36 @@
 }
 
 .habilidades .container-habilidades .habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes .logo #postgresql{
+    color: #5EBC4E;
+    
+}
+
+.habilidades .container-habilidades .habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes .logo #nodejs{
+    color: #5EBC4E;
+    
+}
+
+.habilidades .container-habilidades .habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes .logo #tailwind{
+    color: #3077C5;
+    
+}
+
+.habilidades .container-habilidades .habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes .logo #nextjs{
+    color: #000000;
+    background-color: white
+}
+
+.habilidades .container-habilidades .habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes .logo #typescript{
+    color: #3077C5;
+    
+}
+
+.habilidades .container-habilidades .habilidades .container-habilidades .informacoes h3,
 .habilidades .container-habilidades .informacoes .logo #javascript{
     color: #F0DB4F;
     
