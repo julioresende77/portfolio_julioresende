@@ -1,6 +1,7 @@
 # Portfolio
 
 ![](./src/design/preview-desktop.png)
+![](./src/design/pre-visualizacao-readme.gif)
 
 ## Sumário
 
