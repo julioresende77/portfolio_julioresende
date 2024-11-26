@@ -5,9 +5,9 @@
 
 .img-perfil {
     width: 212px;
-    height: 211px;
+    /* height: 211px; */
     align-self: center;
-    border-radius: 50%;
+    border-radius: 10%;
     margin-bottom: 100px;
 }
 
@@ -58,9 +58,9 @@
 
     .home .img-perfil {
         width: 212px;
-        height: 211px;
+        /* height: 211px; */
         align-self: center;
-        border-radius: 50%;
+        border-radius: 10%;
         margin-bottom: 100px;
     }
 
