@@ -1,5 +1,5 @@
 .rodape {
-    background-color: #000000;
+    background-color: var(--cor-rodape);
     margin-top: 7rem;
     text-align: center;
     

@@ -17,6 +17,10 @@
     flex-direction: column;
 }
 
+.palavra-azul {
+    color: var(--cor-blue);
+}
+
 .home .redes-sociais {
     bottom: 20px;
     text-align: center;
