@@ -33,6 +33,10 @@
     padding: 0 var(--mobile-padding);
     text-align: center;
   }
+
+  .botao {
+    font-size: 1.9rem;
+  }
 }
 
 @media (max-width: 768px) {
@@ -50,6 +54,5 @@
 
   .botao {
     font-size: 1.5rem;
-    width: 40%;
   }
 }
