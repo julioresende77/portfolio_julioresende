@@ -56,7 +56,7 @@
 
 @media(max-width: 1280px) {
     .home .texto-home h1 {
-        font-size: var(--fonte-gigante-mobile);
+        font-size: 3.2rem;
     }
 
     .home .img-perfil {
