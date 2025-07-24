@@ -80,7 +80,6 @@ body {
 }
 
 .botao {
-  width: 30%;
   font-size: var(--fonte-grande);
   padding: 10px 15px;
   border-radius: 20px;
